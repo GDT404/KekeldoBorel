@@ -1,9 +1,9 @@
-## Bem-vindo(a) ao perfil do KekeldoBorel 😁
+## Bem-vindo(a) ao perfil do GDT404 😁
 
  <div>
-   <a href="https://github.com/KekeldoBorel">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KekeldoBorel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KekeldoBorel&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/GDT404">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GDT404&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GDT404&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
